@@ -1,4 +1,4 @@
-#### This repository analyze the Mental Distress Level of Chinese Comfort Women during WWII
+#### This repository analyze the Sexual Exploitation and Mental Distress Level of Chinese Comfort Women during WWII
 
 #### Keywords: Semantic Syntactic Analysi
 #### Methodology Precedent: Holocaust Testimony
