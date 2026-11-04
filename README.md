@@ -1,6 +1,8 @@
+# Chinese-IANFU-Mental-Distress-Quantified
+
 #### This repository analyze the Sexual Exploitation and Mental Distress Level of Chinese Comfort Women during WWII
 
-#### Keywords: Semantic Syntactic Analysi
+#### Keywords: Semantic Syntactic Analysis
 #### Methodology Precedent: Holocaust Testimony
     Hypothesis:
 H1 (Measurement):
@@ -15,4 +17,3 @@
 H3 (Mismatch):
 #### Substantial share of expressed distress is somatic & social, such as bodily illness described by terms in Traditional Chinese Medicine, infertility, and exclusion from marriage and the village.
 {Their exact mental distress level can fall far outside both Western criteria sets.}
-# Chinese-IANFU-Mental-Distress-Quantified
