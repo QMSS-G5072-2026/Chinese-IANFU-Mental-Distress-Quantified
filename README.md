@@ -10,6 +10,8 @@ oMental Distress is expressed more through somatic complaints, shame and social 
 H2 (Match):
 oTestimonies of Chinese IANFU show evidence for most DSM-5 PTSD criterion clusters, especially avoidance and intrusion. 
 { ICD-11 complex PTSD is matched more fully than DSM-5 PTSD, as shame and relational difficulty (complex PTSD's "disturbances in self-organization") recur in accounts of postwar life.}
+
+
 H3 (Mismatch):
 oSubstantial share of expressed distress is somatic & social, such as bodily illness described by terms in Traditional Chinese Medicine, infertility, and exclusion from marriage and the village.
 {Their exact mental distress level can fall far outside both Western criteria sets.}
