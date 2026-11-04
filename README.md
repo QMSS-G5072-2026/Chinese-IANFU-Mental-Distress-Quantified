@@ -5,11 +5,11 @@
     Hypothesis:
 H1 (Measurement):
 #### Mental Distress can be coded reliably from testimony text as coded by symptom criterion, compared to generic sentiment analysis. { symptom-based classifier will agree with human coders (target κ ≥ 0.6, F1 ≥ 0.7)}
-oMental Distress is expressed more through somatic complaints, shame and social exclusion (marriage, childbearing, village stigma) than through explicit emotion words, concentrating in accounts of postwar life rather than of captivity.
+#### Mental Distress is expressed more through somatic complaints, shame and social exclusion (marriage, childbearing, village stigma) than through explicit emotion words, concentrating in accounts of postwar life rather than of captivity.
 
 H2 (Match):
 #### Testimonies of Chinese IANFU show evidence for most DSM-5 PTSD criterion clusters, especially avoidance and intrusion. 
-{ ICD-11 complex PTSD is matched more fully than DSM-5 PTSD, as shame and relational difficulty (complex PTSD's "disturbances in self-organization") recur in accounts of postwar life.}
+#### {ICD-11 complex PTSD is matched more fully than DSM-5 PTSD, as shame and relational difficulty (complex PTSD's "disturbances in self-organization") recur in accounts of postwar life.}
 
 
 H3 (Mismatch):
